@@ -1,0 +1,5 @@
+task stage {
+
+  dependsOn build
+
+}
